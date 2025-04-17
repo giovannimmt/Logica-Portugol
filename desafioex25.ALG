@@ -13,7 +13,7 @@ inicio
   Escreva("Digite o comprimeto da reta C em cm: ")
   leia(C)
   
-  Se (A+B > C) ou (A+C > B) ou (B+C > A) entao
+  Se (A+B > C) e (A+C > B) e (B+C > A) entao
      Escreval("É possível formar um triângulo!")
   senao
        Escreval("Não é possível formar um triângulo!")
