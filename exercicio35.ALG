@@ -7,7 +7,7 @@ var
 
 inicio
 
-  escreva("Digite qual opção de carro melhor te atendeu:")
+  escreva("Digite qual opÃ§Ã£o de carro melhor te atendeu:")
   escreval("[1] - POPULAR")
   escreval("[2] - LUXO")
   leia(carro)
@@ -39,5 +39,5 @@ inicio
   FimSe
   
        precototal <- (precodia*dias) + (km*precoporkm)
-       Escreval("O preço do aluguel ficou em R$", precototal)
+       Escreval("O preÃ§o do aluguel ficou em R$", precototal)
 fimalgoritmo
