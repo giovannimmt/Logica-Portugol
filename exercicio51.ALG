@@ -5,14 +5,14 @@ var
 
 inicio
 
-escreval("Digite o preço(R$) do 1 .o produto: ")
+escreval("Digite o preÃ§o(R$) do 1 .o produto: ")
 leia(preco)
 
 maior <- preco
 menor <- preco
 contador <- 2
-Enquanto (contador<=8) faça
- escreval("Digite o preço(R$) do ", contador, " .o produto: ")
+Enquanto (contador<=8) faÃ§a
+ escreval("Digite o preÃ§o(R$) do ", contador, " .o produto: ")
  leia(preco)
  Se (preco<menor) entao
     menor <- preco
@@ -24,8 +24,8 @@ Enquanto (contador<=8) faça
  contador <- contador + 1
 FimEnquanto
 
-escreval("O maior preço digitado é: R$", maior)
-escreval("O menor preço digitado é: R$", menor)
+escreval("O maior preÃ§o digitado Ã©: R$", maior)
+escreval("O menor preÃ§o digitado Ã©: R$", menor)
 
 
 fimalgoritmo
