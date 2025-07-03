@@ -1,0 +1,1 @@
+Este repositório contém uma série de exercícios básicos desenvolvidos em Portugol, com o objetivo de reforçar os conceitos fundamentais da lógica de programação. É ideal para quem está começando a programar e deseja praticar o raciocínio lógico de forma simples e estruturada.
