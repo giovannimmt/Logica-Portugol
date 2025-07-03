@@ -21,7 +21,8 @@ inicio
   
   escreval("Deseja continuar o programa? [S/N]")
   leia(resposta)
-  
+                                                            cd ..
+                                                            cd
  Ate (resposta = "N")
  
  escreval("O salário total dos homens é de R$", totalHomens)
